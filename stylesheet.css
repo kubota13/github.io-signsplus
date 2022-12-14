@@ -118,7 +118,7 @@ article p.num {
     position: absolute;
     top: 0;
     left: 0;
-    background: url(../img/mv_ico_scroll.png);
+    background: url(mv_ico_scroll.png);
     content: "";
 }
 
@@ -161,16 +161,16 @@ article p.num {
     animation-fill-mode: forwards;
 }
 #MV .mv-crausel-item.block01 {
-    background-image: url(../img/mv_bg01.jpg);
+    background-image: url(mv_bg01.jpg);
 }
 #MV .mv-crausel-item.block02 {
-    background-image: url(../img/mv_bg02.jpg);
+    background-image: url(mv_bg02.jpg);
 }
 #MV .mv-crausel-item.block03 {
-    background-image: url(../img/mv_bg03.jpg);
+    background-image: url(mv_bg03.jpg);
 }
 #MV .mv-crausel-item.block04 {
-    background-image: url(../img/mv_bg04.jpg);
+    background-image: url(mv_bg04.jpg);
 }
 #MV .mv-crausel-item.is-next {
     z-index: 1;
@@ -377,7 +377,7 @@ article div.swiper-container div.pager span.swiper-pagination-bullet::after {
     content: "";
 }
 article div.swiper-container div.pager span.swiper-pagination-bullet .swiper-pagination-bullet-active::after {
-    background: url(../img/pager_ico_active.png) repeat-x 0 100%;
+    background: url(pager_ico_active.png) repeat-x 0 100%;
 }
 
 @media screen and (max-width: 768px) {
@@ -393,7 +393,7 @@ article div.swiper-container div.pager span.swiper-pagination-bullet .swiper-pag
         height: 10px;
     }
     article div.swiper-contianer div.pager span.swiper-pagination-bullet .swiper-pagination-bullet-active::after {
-        background: url(../img/pager_ico_active_sp.png) repeat-x 0 100%;
+        background: url(pager_ico_active_sp.png) repeat-x 0 100%;
         background-size: 3px auto;
     }
 }
@@ -416,7 +416,7 @@ article div.swiper-container div.pager span.swiper-pagination-bullet .swiper-pag
 }
 
 #Concept div.concept-carousel div.block01 {
-    background-image: url(..//img/concept_bg01.jpg);
+    background-image: url(concept_bg01.jpg);
 }
 #Concept div.sentence-area {
     width: 410px;
@@ -452,7 +452,7 @@ article div.swiper-container div.pager span.swiper-pagination-bullet .swiper-pag
 
 @media screen and (max-width: 768px) {
     #Concept div.concept-carousel div.block01 {
-        background-image: url(../img/concept_bg01.jpg);
+        background-image: url(concept_bg01.jpg);
     }
     #Concept div.sentence-area {
         width: auto;
@@ -504,13 +504,13 @@ article div.swiper-container div.pager span.swiper-pagination-bullet .swiper-pag
 }
 
 #Cafe div.cafe-carousel .block01 {
-    background-image: url(../img/cafe_bg01.jpg);
+    background-image: url(cafe_bg01.jpg);
 }
 #Cafe div.cafe-carousel .block02 {
-    background-image: url(../img/cafe_bg02.jpg);
+    background-image: url(cafe_bg02.jpg);
 }
 #Cafe div.cafe-carousel .block03 {
-    background-image: url(..//img/cafe_bg03.jpg);
+    background-image: url(cafe_bg03.jpg);
 }
 @media screen and (max-width: 768px) {
     #Cafe div.cafe-carousel {
@@ -885,13 +885,13 @@ article div.swiper-container div.pager span.swiper-pagination-bullet .swiper-pag
     margin: 0 0 35px;
 }
 #Salon div.salon-carousel div.block01 {
-    background-image: url(../img/salon_bg01.jpg);
+    background-image: url(salon_bg01.jpg);
 }
 #Salon div.salon-carousel div.block02 {
-    background-image: url(../img/salon_bg02.jpg);
+    background-image: url(salon_bg02.jpg);
 }
 #Salon div.salon-carousel div.block03 {
-    background-image: url(../img/salon_bg03.jpg);
+    background-image: url(salon_bg03.jpg);
 }
 
 @media screen and (max-width: 768px) {
@@ -1043,7 +1043,7 @@ article div.swiper-container div.pager span.swiper-pagination-bullet .swiper-pag
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../img/news_noimage.jpg);
+    background-image: url(news_noimage.jpg);
 }
 #News section.feed a div.feed-inline {
     width: 320px;
@@ -1132,7 +1132,7 @@ article div.swiper-container div.pager span.swiper-pagination-bullet .swiper-pag
     position: absolute;
     top: 21px;
     right: 62px;
-    background: url(../img/news_ico_more.png) no-repeat 0 0;
+    background: url(news_ico_more.png) no-repeat 0 0;
     content: "";
 }
 
@@ -1172,7 +1172,7 @@ article div.swiper-container div.pager span.swiper-pagination-bullet .swiper-pag
         top: 50%;
         right: 15px;
         margin: -2px 0 0;
-        background: url(../img/ico_arw01_sp.png) no-repeat 0 0;
+        background: url(ico_arw01_sp.png) no-repeat 0 0;
         background-size: 16px auto;
     }
 }
@@ -1308,7 +1308,7 @@ article div.swiper-container div.pager span.swiper-pagination-bullet .swiper-pag
     position: absolute;
     top: 21px;
     right: 86px;
-    background: url(../img/news_ico_more.png) no-repeat 0 0;
+    background: url(news_ico_more.png) no-repeat 0 0;
     content: "";
 }
 
@@ -1327,7 +1327,7 @@ article div.swiper-container div.pager span.swiper-pagination-bullet .swiper-pag
     }
     #Access div.address p.btn a:hover::after {
         right: 72px;
-        background: url(../img/news_ico_more.png) no-repeat 0 0;
+        background: url(news_ico_more.png) no-repeat 0 0;
     }
 }
 @media screen and (max-width: 768px) {
@@ -1384,7 +1384,7 @@ article div.swiper-container div.pager span.swiper-pagination-bullet .swiper-pag
         top: 50%;
         right: 15px;
         margin: -2px 0 0;
-        background: url(../img/ico_arw02_sp.png) no-repeat 0 0;
+        background: url(ico_arw02_sp.png) no-repeat 0 0;
         background-size: 16px auto;
         content: "";
     }
