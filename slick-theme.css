@@ -200,5 +200,5 @@
 }
 .slick-dots li.slick-active button::after
 {
-    background: url(../img/pager_ico_active.png);
+    background: url(pager_ico_active.png);
 }
