@@ -116,7 +116,7 @@ a {
 
 #Header #GlobalNavi div.globalnavi-inline ul li a span {
     padding:0 5px 0 0;
-    background:url(../img/gn_ico.png) no-repeat 100% 50%;
+    background:url(gn_ico.png) no-repeat 100% 50%;
 }
 
 #Header #GlobalNavi div.globalnavi-inline ul li a:before {
