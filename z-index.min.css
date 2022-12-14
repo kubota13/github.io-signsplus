@@ -1,0 +1,3 @@
+#Footer p.bottom-logo, #Header, #Header p .btn {
+    z-index: 5000;
+}
