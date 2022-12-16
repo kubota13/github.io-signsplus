@@ -1151,7 +1151,7 @@ article div.swiper-container div.pager span.swiper-pagination-bullet .swiper-pag
     }
     #News p.btn a:hover::after {
         right: 49px;
-        background: url(../img/news_ico_more_on.png) no-repeat 0 0;
+        background: url(news_ico_more_on.png) no-repeat 0 0;
     }
 }
 @media screen and (max-width: 768px) {
